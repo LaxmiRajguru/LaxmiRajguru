@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LaxmiRajguru
 - 👀 I’m interested in open source contribution
-- 🌱 I’m currently learning java programming launguage
+- 🌱 I have good knowledge of java programming language. 
 - 💞️ I’m looking to collaborate on open source projects
 
 <!---
